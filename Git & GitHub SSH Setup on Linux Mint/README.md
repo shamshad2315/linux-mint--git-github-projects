@@ -4,8 +4,6 @@ A step-by-step record of setting up Git and SSH authentication with GitHub on Li
 
  
 ## 1. Project Overview
-![SSH.png](.//home/shamshad/Downloads)
-
 This documentation covers:
 
 - Installing Git on Linux Mint
