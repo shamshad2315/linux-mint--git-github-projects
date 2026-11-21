@@ -98,7 +98,7 @@ git config --global --list
 > **Important:** During the setup, the email entered was `shamshadansari43984@gnail.com`. Check this carefully. If `gnail.com` was a typing mistake and your actual email is on `gmail.com`, update it using the command below:
 
 ```bash
-git config --global user.email "your-correct-email@gmail.com"
+git config --global user.email "shamshadansari43984@gnail.com"
 ```
 
 The email configured in Git should normally be an email associated with your GitHub account if you want commits linked to that account.
@@ -108,7 +108,7 @@ The email configured in Git should normally be an email associated with your Git
 Generate an Ed25519 key pair:
 
 ```bash
-ssh-keygen -t ed25519 -C "YOUR_GITHUB_EMAIL"
+ssh-keygen -t ed25519 -C "shamshadansari43984@gnail.com"
 ```
 
 When asked where to save the key, press **Enter** to accept the default location:
