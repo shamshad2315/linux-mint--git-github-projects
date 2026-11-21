@@ -4,7 +4,7 @@ A step-by-step record of setting up Git and SSH authentication with GitHub on Li
 
  
 ## 1. Project Overview
-![Uploading SSH.png…]()
+![SSH.png]()
 
 This documentation covers:
 
